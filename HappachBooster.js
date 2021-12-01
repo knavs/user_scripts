@@ -7,6 +7,7 @@
 // @match        https://www.twitch.tv/*
 // @grant        none
 // ==/UserScript==
+
 // for examples reuquests seee  - https://github.com/w3champions/twitch-extension/blob/cf5ba8139179cdc782bbea0e6e039d3efb1ad94f/src/utils/fetch.ts
 (function() {
     'use strict';
