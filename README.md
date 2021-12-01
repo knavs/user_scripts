@@ -3,7 +3,7 @@
 
 ![Image](https://github.com/knavs/user_scripts/raw/main/hpchbooster-screenshot.png)
 
-Script, adds to  [twitch.tv](https://www.twitch.tv/directory/game/Warcraft%20III) line with "now playing" information about running online game warcraft III 🎥
+Script, adds to  [twitch.tv](https://www.twitch.tv/directory/game/Warcraft%20III) line with "now playing" information about running online game in warcraft III section 🎥
 - Whos the opponent
 - Akas
 - Countryflags
