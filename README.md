@@ -3,19 +3,18 @@
 
 ![Image](https://github.com/knavs/user_scripts/raw/main/hpchbooster-screenshot.png)
 
-Скрипт, добавляет на [twitch.tv](https://www.twitch.tv/directory/game/Warcraft%20III) под видео строку с информацией о текущей игре warcraft III 🎥
+Script, adds to  [twitch.tv](https://www.twitch.tv/directory/game/Warcraft%20III) line with "now playing" information about running online game warcraft III 🎥
+- Whos the opponent
+- Akas
+- Countryflags
+- Races
 
 <br>
 
-## Установка
-1. Установите расширение [Tampermonkey](https://www.tampermonkey.net/).
-2. Установите скрипт. _(Для автоматической установки можно перейти по [этой ссылке](https://github.com/knavs/user_scripts/raw/main/happach-booster.user.js))_
-
+## Installation
+1. Install extension [Tampermonkey](https://www.tampermonkey.net/).
+2. Install script. _(To automatically install script click  [here](https://github.com/knavs/user_scripts/raw/main/happach-booster.user.js))_
 <br>
 
-## Лицензия
-без лицензии
-Free as beer 
-
-
-MIT _([LICENSE](https://github.com/Kirlovon/Kinopoisk-Watch/blob/master/LICENSE) файл)_
+## License
+No license. Free as beer 
