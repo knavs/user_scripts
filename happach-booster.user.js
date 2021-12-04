@@ -90,6 +90,7 @@
 
         var knownPlayers = [
             //{aka : "Edo", twitch: "edoboii", w3cSmurfs : "EDOBOIEDOBOI#2276" }, //его добавили в базу незачем задавть вручную
+            {aka : "DRagonbornBR", twitch : "Dragonborn_BR" , w3cSmurfs : "DOVAHKIIN#22289"},
             {aka : "Fish", twitch : undefined, w3cSmurfs : "FROGZ#11137"},
             {aka : "KUHHHdark", twitch : "kuhhhdark", w3cSmurfs : "KUHHHDARK#1588 UU99#1140"},
             {aka : "Hipposaur", twitch : "rhinosaurier", w3cSmurfs : " DERANGING#2574 HIPPOSAURIER#2643"},
