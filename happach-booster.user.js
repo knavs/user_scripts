@@ -133,7 +133,7 @@
             { aka: "KroLu", twitch: "krolu_", w3cSmurfs: "LOSTHOPELFT#2202 ZYGM0O#2163"},
             // LUCIFER 2X:
             //{ aka: "Lucifer", twitch: "jwmichaelmn", w3cSmurfs: "JWMICHAELMN#3698"},
-            { aka: "Lucifer", twitch: "vs_michael", w3cSmurfs: "VSMICHAEL#3369 JWMICHAELMN#3698"},
+            { aka: "Lucifer", twitch: "vs_michael", w3cSmurfs: "VSMICHAEL#3369 JWMICHAELMN#3698  VSLUCHAEL#3146"},
             // LUCIFER 2x
             { aka: "JohnnyCage", twitch: "johnnycagetdk", w3cSmurfs: "BOYKA#22818"},
             { aka: "nuelltz", twitch: "nuelltz", w3cSmurfs: "MARSJOE#2633"},
