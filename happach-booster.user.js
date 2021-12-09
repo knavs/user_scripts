@@ -115,7 +115,7 @@
             { aka: "GunEgg", twitch: "gunegg1234", w3cSmurfs: "GUNEGG#3700"},
             { aka: "Crrpt", twitch: "crrpt86", w3cSmurfs: "KINGCRRPT#2278"},
             { aka: "Fly100%", twitch: undefined, w3cSmurfs: "FLYGOGOGO#4538"},
-            { aka: "Lin Guagua", twitch: undefined, w3cSmurfs: "WHO#51871"},
+            { aka: "Lin Guagua", twitch: undefined, w3cSmurfs: "WHO#51871 IN20220928#5839"},
             { aka: "TeRRoR", twitch: "goterror", w3cSmurfs: "GOTERROR#2505"},
             { aka: "Barren", twitch: "barrentv", w3cSmurfs: "BARREN#1153"},
             { aka: "Robinson", twitch: "1robinson", w3cSmurfs: "ROBINSON#21701"},
