@@ -98,6 +98,7 @@
             {aka : "EdGE", twitch : "edgewc3", w3cSmurfs : "DESERTSONG#11582 EDGE#12479"},
             {aka : "Starbuck", twitch : "starbuck", w3cSmurfs : "DRǃBUCKI#2383 STARBUCK#2732"},
             {aka : "Deuce", twitch : "dustdeuce", w3cSmurfs : "KINGDEUCE#11319"},
+            {aka : "HoT", twitch : "hotwussy", w3cSmurfs : "HHH#2991"},
             { aka: "AraAraBRamSSSS", twitch : "araarabramss" , w3cSmurfs: "CUCARACHA#21207"},
             { aka: "VooDooSh", twitch : "voodoosh", w3cSmurfs: "VOODOOSOUL#2858"},
             { aka: "Eightyfour", twitch: "eightyfour_", w3cSmurfs: "EIGHTYFOUR#2111"},
