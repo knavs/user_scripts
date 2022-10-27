@@ -91,6 +91,7 @@
         var knownPlayers = [
             //{aka : "Edo", twitch: "edoboii", w3cSmurfs : "EDOBOIEDOBOI#2276" }, //его добавили в базу незачем задавть вручную
             {aka: "Niklaus", twitch: "hailniklaus" , w3cSmurfs: "Philosopher#21505"},
+            {aka: "Kaho", twitch: "hailniklaus" , w3cSmurfs: "DESTINY#514792"},
             {aka: "ice orc", twitch: undefined, w3cSmurfs: "抖音冰受受#5330"},
             {aka: "Mango", twitch: undefined, w3cSmurfs: "吃嘛嘛香#52792"},
             {aka : "Yange", twitch: "assassingo1", w3cSmurfs : "리쥬짱#3390"},
@@ -98,7 +99,7 @@
             {aka : "DRagonbornBR", twitch : "Dragonborn_BR" , w3cSmurfs : "DOVAHKIIN#22289 DRAGONBORNBR#11769"},
             {aka : "Fish", twitch : undefined, w3cSmurfs : "FROGZ#11137"},
             {aka : "KUHHHdark", twitch : "kuhhhdark", w3cSmurfs : "KUHHHDARK#1588 UU99#1140"},
-            {aka : "Hipposaur", twitch : "rhinosaurier", w3cSmurfs : " DERANGING#2574 HIPPOSAURIER#2643"},
+            {aka : "Hipposaur", twitch : "rhinosaurier", w3cSmurfs : " DERANGING#2574 HIPPOSAURIER#2643"},            
             {aka : "XlorD", twitch : "ixixlord", w3cSmurfs : "XLORD#2596"},
             {aka : "Sok", twitch: undefined, w3cSmurfs: "MOOSANGSUNG#1804 AFSOK#3881"},
             {aka : "EdGE", twitch : "edgewc3", w3cSmurfs : "DESERTSONG#11582 EDGE#12479"},
@@ -121,7 +122,7 @@
             { aka: "Chiko", twitch: "elovesupreme", w3cSmurfs: "CHIQO#21759 SUN#23180"},
             { aka: "GunEgg", twitch: "gunegg1234", w3cSmurfs: "GUNEGG#3700"},
             { aka: "Crrpt", twitch: "crrpt86", w3cSmurfs: "KINGCRRPT#2278"},
-            { aka: "Fly100%", twitch: undefined, w3cSmurfs: "FLYGOGOGO#4538"},
+            { aka: "Fly100%", twitch: undefined, w3cSmurfs: "FLYGOGOGO#4538"},            
             { aka: "Lin Guagua", twitch: undefined, w3cSmurfs: "WHO#51871 IN20220928#5839"},
             { aka: "TeRRoR", twitch: "goterror", w3cSmurfs: "GOTERROR#2505"},
             { aka: "Barren", twitch: "barrentv", w3cSmurfs: "BARREN#1153"},
