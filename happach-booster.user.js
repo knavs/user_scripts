@@ -100,6 +100,7 @@
             {aka : "Yange", twitch: "assassingo1", w3cSmurfs : "리쥬짱#3390"},
             {aka : "tbc_bm", twitch: undefined, w3cSmurfs : "VERGER#5185 吉吉猫#51117"}, 
             {aka : "pcg123", twitch: undefined, w3cSmurfs :"BUGFROG#5885"},
+            {aka : "2964", twitch: undefined, w3cSmurfs :"香复女子#5480"},
             {aka : "DRagonbornBR", twitch : "Dragonborn_BR" , w3cSmurfs : "DOVAHKIIN#22289 DRAGONBORNBR#11769"},
             {aka : "Fish", twitch : undefined, w3cSmurfs : "FROGZ#11137"},
             {aka : "KUHHHdark", twitch : "kuhhhdark", w3cSmurfs : "KUHHHDARK#1588 UU99#1140"},
