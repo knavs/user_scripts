@@ -91,7 +91,7 @@
         var knownPlayers = [
             //{aka : "Edo", twitch: "edoboii", w3cSmurfs : "EDOBOIEDOBOI#2276" }, //его добавили в базу незачем задавть вручную
             {aka: "Niklaus", twitch: "hailniklaus" , w3cSmurfs: "Philosopher#21505"},
-            {aka: "Cas", twitch: "koaocas" , w3cSmurfs: "WNDCAS#1449 WONTUFANS#1690 "},
+            {aka: "Cas", twitch: "koaocas" , w3cSmurfs: "WONTUFANS#1690 WNDCAS#1449"},
             {aka: "Kaho", twitch: undefined , w3cSmurfs: "DESTINY#514792"},
             {aka: "ice orc", twitch: undefined, w3cSmurfs: "抖音冰受受#5330 ICEGOGOGO#5711"},
             {aka: "沐浴露 (Chinese HU)", twitch: undefined, w3cSmurfs: "冯奕博小同学#5832"},
