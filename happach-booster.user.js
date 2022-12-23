@@ -110,7 +110,7 @@
             {aka : "KUHHHdark", twitch : "kuhhhdark", w3cSmurfs : "KUHHHDARK#1588 UU99#1140"},
             {aka : "Hipposaur", twitch : "rhinosaurier", w3cSmurfs : " DERANGING#2574 HIPPOSAURIER#2643"},            
             {aka : "XlorD", twitch : "ixixlord", w3cSmurfs : "XLORD#2596 МАНДЮК#2977"},
-            {aka : "Fantafiction", twitch : undefined, w3cSmurfs : "UDRIDICULOUS#5659 uAllGod#3751"},
+            {aka : "Fantafiction", twitch : undefined, w3cSmurfs : "UDRIDICULOUS#5659 UALLGOD#3751"},
             {aka : "Sok", twitch: undefined, w3cSmurfs: "MOOSANGSUNG#1804 AFSOK#3881 KDFSOK#3525"},
             {aka : "EdGE", twitch : "edgewc3", w3cSmurfs : "DESERTSONG#11582 EDGE#12479"},
             {aka : "Starbuck", twitch : "starbuck", w3cSmurfs : "DRǃBUCKI#2383 STARBUCK#2732"},
