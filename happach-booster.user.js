@@ -97,6 +97,7 @@
             {aka: "沐浴露 (Chinese HU)", twitch: undefined, w3cSmurfs: "冯奕博小同学#5832"},
             {aka: "Romantic", twitch: undefined, w3cSmurfs: "毕竟#51207"},
             {aka: "Three", twitch: undefined, w3cSmurfs: "HiddenPants#512686"},
+            {aka: "Sheik", twitch: "sheik242",  w3cSmurfs: "SHEIK#2417"}, 
             {aka: "CXQ", twitch: undefined, w3cSmurfs: "琴妹子#5316"},
             {aka: "LawLiet", twitch: "chonana1", w3cSmurfs: "퉁명한영웅#315169 LAWLIET#3990"},
             {aka: "Mango", twitch: undefined, w3cSmurfs: "吃嘛嘛香#52792"},
