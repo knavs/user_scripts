@@ -90,7 +90,7 @@
 
         var knownPlayers = [
             //{aka : "Edo", twitch: "edoboii", w3cSmurfs : "EDOBOIEDOBOI#2276" }, //его добавили в базу незачем задавть вручную
-            { aka: "120", twitch: undefined, w3cSmurfs: "Orange#14823"},
+            { aka: "120", twitch: undefined, w3cSmurfs: "ORANGE#14823"},
             { aka: "TH000", twitch: undefined, w3cSmurfs: "EGG#13438"},
             { aka: "Lyn", twitch: undefined, w3cSmurfs: "LIANPIA#3217"},
             { aka: "Niklaus", twitch: "hailniklaus" , w3cSmurfs: "Philosopher#21505"},
@@ -103,7 +103,6 @@
             { aka : "Meteor", twitch: undefined, w3cSmurfs : "小小手心#3651"},
             { aka : "Infi", twitch: undefined, w3cSmurfs : "IFFI#1561"},
             { aka: "Three", twitch: undefined, w3cSmurfs: "HiddenPants#512686"},
-            { aka: "Benz", twitch: undefined, w3cSmurfs: "MAY4DOT#1127"},
             { aka: "Sheik", twitch: "sheik242",  w3cSmurfs: "SHEIK#2417"}, 
             { aka: "CXQ", twitch: undefined, w3cSmurfs: "琴妹子#5316"},
             { aka: "LawLiet", twitch: "chonana1", w3cSmurfs: "퉁명한영웅#315169 LAWLIET#3990 KITTYf#31842"},
@@ -118,6 +117,7 @@
             { aka : "CoolXian", twitch : undefined, w3cSmurfs: "UALLGOD#3494"},
             { aka : "EleGaNt", twitch : undefined, w3cSmurfs: "NIDHOGGGGGGG#2509"},
             { aka : "HuaZhu", twitch : undefined, w3cSmurfs: "MYFLIGHTLIFE#3755"},
+            { aka : "Sui", twitch : undefined, w3cSmurfs: "牛魔酬宾暴雪#3346"},        
             { aka : "Sini", twitch: undefined, w3cSmurfs: "MCLARENF1GTR#1647"},
             { aka : "Bike", twitch: undefined, w3cSmurfs: "WHATDOUWANT#2876"},
             { aka : "Fish", twitch : undefined, w3cSmurfs : "FROGZ#11137"},
@@ -152,6 +152,7 @@
             { aka : "Fast", twitch: undefined, w3cSmurfs: "黑夜烏鴉#13979"},
             { aka :"Messi" , twitch: undefined, w3cSmurfs: "LIONELMESSII#1686"},
             { aka: "Qiuqiu", twitch: undefined, w3cSmurfs: "QIUQIUFATHER#1805"},
+            { aka: "War3Orcer0", twitch: undefined, w3cSmurfs: "IAMNOOB#21294"},
             { aka :"无道oc" , twitch: undefined, w3cSmurfs: "NIGHTRAVENN#3834"},
             { aka: "TeRRoR", twitch: "goterror", w3cSmurfs: "GOTERROR#2505"},
             { aka: "Barren", twitch: "barrentv", w3cSmurfs: "BARREN#1153"},
