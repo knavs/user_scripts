@@ -134,6 +134,7 @@
             { aka: "AraAraBRamSSSS", twitch : "araarabramss" , w3cSmurfs: "CUCARACHA#21207"},
             { aka: "VooDooSh", twitch : "voodoosh", w3cSmurfs: "VOODOOSOUL#2858"},
             { aka: "Eightyfour", twitch: "eightyfour_", w3cSmurfs: "EIGHTYFOUR#2111"},
+            { aka: "StarsNStripes", twitch: "starsnstripes69", w3cSmurfs: "STRSNSTRIPES#1943"},
             { aka: "Cechi", twitch: "cechi1", w3cSmurfs: "CECHI#21571"},
             { aka: "Vankor", twitch: "bowlsofsteel", w3cSmurfs: "BOWLSOFSTEEL#21421"},
             { aka: "Hitman", twitch: "hitmanstarcraft2", w3cSmurfs : "ETHEREAL#1992 LUDIQUE#11619 POTHOLDERZ#11253 PARTING#11920"},
