@@ -121,7 +121,7 @@
             { aka : "Sini", twitch: undefined, w3cSmurfs: "MCLARENF1GTR#1647"},
             { aka : "Bike", twitch: undefined, w3cSmurfs: "WHATDOUWANT#2876"},
             { aka : "Fish", twitch : undefined, w3cSmurfs : "FROGZ#11137 ICE#13318"},
-            { aka : "KUHHHdark", twitch : "kuhhhdark", w3cSmurfs : "KUHHHDARK#1588 KUHHHDARKK#1140 UU99#1140 LABRABULL#1208"},
+            { aka : "KUHHHdark", twitch : "kuhhhdark", w3cSmurfs : "KUHHHDARK#1588 UU99#1140 LABRABULL#1208"},
             { aka : "Hipposaur", twitch : "rhinosaurier", w3cSmurfs : " DERANGING#2574 HIPPOSAURIER#2643"},            
             { aka : "XlorD", twitch : "ixixlord", w3cSmurfs : "XLORD#2596 МАНДЮК#2977"},
             { aka : "Sok", twitch: undefined, w3cSmurfs: "MOOSANGSUNG#1804 AFSOK#3881 KDFSOK#3525"},
@@ -133,7 +133,7 @@
             { aka : "HoT", twitch : "hotwussy", w3cSmurfs : "HHH#2991"},
             { aka: "AraAraBRamSSSS", twitch : "araarabramss" , w3cSmurfs: "CUCARACHA#21207"},
             { aka: "VooDooSh", twitch : "voodoosh", w3cSmurfs: "VOODOOSOUL#2858"},
-            { aka: "Eightyfour", twitch: "eightyfour_", w3cSmurfs: "EIGHTYFOUR#2111"},
+            { aka: "84", twitch: "eightyfour_", w3cSmurfs: "EIGHTYFOUR#2111 EIGHTYFOUR#21528"},
             { aka: "StarsNStripes", twitch: "starsnstripes69", w3cSmurfs: "STRSNSTRIPES#1943"},
             { aka: "Cechi", twitch: "cechi1", w3cSmurfs: "CECHI#21571"},
             { aka: "Vankor", twitch: "bowlsofsteel", w3cSmurfs: "BOWLSOFSTEEL#21421"},
@@ -180,6 +180,8 @@
         ];
 
         var watchingPlayer = knownPlayers.find( function(player) { return currentLocation.endsWith(player.twitch) });
+
+        //console.log(watchingPlayer);
 
         if (!watchingPlayer) {
             // TODO: move this out of main function
@@ -234,6 +236,8 @@
 
                 function playersWithThisTwitch(match) {
                     var thisTwitchChannel = window.location.href.split("/")[3].split("?")[0].toLowerCase();
+                    //console.log('thisTwitchChannel', thisTwitchChannel);
+                    //console.log(match);
 
                     var channel1 = match.teams[0].players[0].twitch||"#";
                     var channel2 = match.teams[1].players[0].twitch||"#";
@@ -243,7 +247,8 @@
 
                 if (happachSmurfs) {
                     var happachMatch = matches.find(isHappyMatch);
-                    console.log('happachMatch', happachMatch);
+                    //console.log('happachMatchSmurfed', happachMatch);
+                    //console.log('happachMatch', happachMatch);
                 }
 
                 if (DEBUG) console.log("window.location.href", window.location.href);
