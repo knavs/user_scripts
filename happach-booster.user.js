@@ -118,7 +118,7 @@
             { aka : "CoolXian", twitch : undefined, w3cSmurfs: "UALLGOD#3494"},
             { aka : "EleGaNt", twitch : undefined, w3cSmurfs: "NIDHOGGGGGGG#2509"},
             { aka : "HuaZhu", twitch : undefined, w3cSmurfs: "MYFLIGHTLIFE#3755"},
-            { aka : "Sui", twitch : undefined, w3cSmurfs: "牛魔酬宾暴雪#3346"},        
+            { aka : "15Sui", twitch : undefined, w3cSmurfs: "牛魔酬宾暴雪#3346 达菲熊#2850"},        
             { aka : "Sini", twitch: undefined, w3cSmurfs: "MCLARENF1GTR#1647"},
             { aka : "Bike", twitch: undefined, w3cSmurfs: "WHATDOUWANT#2876"},
             { aka : "Fish", twitch : undefined, w3cSmurfs : "FROGZ#11137 ICE#13318"},
