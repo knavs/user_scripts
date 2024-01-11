@@ -125,7 +125,6 @@
             { aka: "Free", twitch: undefined, w3cSmurfs: "감탄하라#3354"},
             { aka: "HuaZhu", twitch: undefined, w3cSmurfs: "MYFLIGHTLIFE#3755"},
             { aka: "15Sui", twitch: undefined, w3cSmurfs: "牛魔酬宾暴雪#3346 达菲熊#2850"},        
-            { aka: "Sini", twitch: undefined, w3cSmurfs: "MCLARENF1GTR#1647"},
             { aka: "Bike", twitch: undefined, w3cSmurfs: "WHATDOUWANT#2876"},
             { aka: "Fish", twitch: undefined, w3cSmurfs: "FROGZ#11137 ICE#13318"},
             { aka: "KUHHHdark", twitch: "kuhhhdark", w3cSmurfs: "KUHHHDARK#1588 UU99#1140 LABRABULL#1208"},
