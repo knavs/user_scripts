@@ -164,7 +164,7 @@
             { aka: "War3Orcer0", twitch: undefined, w3cSmurfs: "IAMNOOB#21294"},
             { aka :"无道oc" , twitch: undefined, w3cSmurfs: "NIGHTRAVENN#3834"},
             { aka: "TeRRoR", twitch: "goterror", w3cSmurfs: "GOTERROR#2505"},
-            { aka: "Barren", twitch: "barrentv", w3cSmurfs: "BARREN#1153"},
+            { aka: "Barren", twitch: "barrentv", w3cSmurfs: "BARREN#1153 STRUGGLEBUS#11950"},
             { aka: "Jens", twitch: undefined, w3cSmurfs: "MAYHEM#12806"},
             { aka: "Robinson", twitch: "1robinson", w3cSmurfs: "ROBINSON#21701"},
             //{ aka: "", twitch: "", w3cSmurfs: "TORIIDACTYL#1645"}
