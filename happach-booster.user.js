@@ -128,6 +128,7 @@
             { aka: "Bike", twitch: undefined, w3cSmurfs: "WHATDOUWANT#2876"},
             { aka: "Fish", twitch: undefined, w3cSmurfs: "FROGZ#11137 ICE#13318"},
             { aka: "KUHHHdark", twitch: "kuhhhdark", w3cSmurfs: "KUHHHDARK#1588 UU99#1140 LABRABULL#1208"},
+            { aka: "Ledgic", twitch: "outcausinpanic", w3cSmurfs: "MALEVOLENT#11546"},
             { aka: "Hipposaur", twitch: "rhinosaurier", w3cSmurfs: " DERANGING#2574 HIPPOSAURIER#2643"},            
             { aka: "XlorD", twitch: "ixixlord", w3cSmurfs: "XLORD#2596 МАНДЮК#2977"},
             { aka: "Sok", twitch: undefined, w3cSmurfs: "MOOSANGSUNG#1804 AFSOK#3881 KDFSOK#3525"},
