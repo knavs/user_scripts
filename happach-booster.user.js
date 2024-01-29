@@ -136,6 +136,7 @@
             { aka: "Starbuck", twitch: "starbuck", w3cSmurfs: "DRǃBUCKI#2383 STARBUCK#2732"},
             { aka: "Deuce", twitch: "dustdeuce", w3cSmurfs: "KINGDEUCE#11319"},
             { aka: "WaN", twitch: undefined, w3cSmurfs: "POWERUNDEAD#2900"},
+            { aka: "Vankor", twitch: undefined, w3cSmurfs: "ATLAS#24990"},
             { aka: "Trunkz", twitch: undefined, w3cSmurfs: "TheGlaive#2158"},
             { aka: "HoT", twitch: "hotwussy", w3cSmurfs: "HHH#2991"},
             { aka: "AraAraBRamSSSS", twitch: "araarabramss" , w3cSmurfs: "CUCARACHA#21207"},
