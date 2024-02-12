@@ -118,7 +118,7 @@
             { aka: "2964", twitch: undefined, w3cSmurfs:"香复女子#5480 UNDEAD#51419 ABCABCABCABC#31723"},
             { aka: "Fantafiction", twitch: undefined, w3cSmurfs: "UDRIDICULOUS#5659 UALLGOD#3751"},
             { aka: "DRagonbornBR", twitch: "Dragonborn_BR" , w3cSmurfs: "DOVAHKIIN#22289 DRAGONBORNBR#11769"},
-            { aka: "RazerMoon", twitch: "tdkrazermoon", w3cSmurfs: "ORANGE#24325 RAZERMOON#21126 JJSX9Y3LRX32#1112"},
+            { aka: "RazerMoon", twitch: "tdkrazermoon", w3cSmurfs: "ORANGE#24325 RAZERMOON#21126 JJSX9Y3LRX32#1112 CHE#11712"},
             { aka: "CoolXian", twitch: undefined, w3cSmurfs: "UALLGOD#3494"},
             { aka: "Sini", twitch: undefined, w3cSmurfs: "MCLARENF1GTR#1647"},
             { aka: "EleGaNt", twitch: undefined, w3cSmurfs: "NIDHOGGGGGGG#2509"},
