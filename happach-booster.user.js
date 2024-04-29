@@ -150,7 +150,7 @@
             { aka: "Hitman", twitch: "hitmanstarcraft2", w3cSmurfs: "ETHEREAL#1992 LUDIQUE#11619 POTHOLDERZ#11253 PARTING#11920"},
             { aka: "DV", twitch: "dv111",  w3cSmurfs: "EHRMANTRAUT#21519"},
             { aka: "SyDe", twitch: "syde_", w3cSmurfs: "SYDE#2753"},
-            { aka: "Happy", twitch: "yesitshappy", w3cSmurfs: "HAPPY#2384 CACXA27#2425 CACXA26#2948"},
+            { aka: "Happy", twitch: "yesitshappy", w3cSmurfs: "HAPPY#2384 CACXA27#2425 CACXA26#2948 AURORAHAPPY#2668"},
             { aka: "TGW", twitch: "sqktgw", w3cSmurfs: "РОЗОВЫЙПОНИ#228941 TGW#21272"},
             { aka: "Grubby", twitch: "followgrubby", w3cSmurfs: "GRUBBY#1278 APPLE#2653"},
             { aka: "Cash", twitch: "cashforking", w3cSmurfs: "SAVAGE#23325"},
