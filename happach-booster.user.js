@@ -141,7 +141,7 @@
             { aka: "HoT", twitch: "hotwussy", w3cSmurfs: "HHH#2991"},
             { aka: "AraAraBRamSSSS", twitch: "araarabramss" , w3cSmurfs: "CUCARACHA#21207"},
             { aka: "DiyeR", twitch: "diyer22" , w3cSmurfs: "IAMNOOBUD#2513"},
-            { aka: "WellPlayedTV", twitch: "wellplayedtv" , w3cSmurfs: "DZDRPRM#2997"},
+            { aka: "WellPlayedTV", twitch: "wellplayedtv" , w3cSmurfs: "DZDRPRM#2997 TROJAN#21481"},
             { aka: "SiN", twitch: undefined , w3cSmurfs: "devnull#21260"},
             { aka: "VooDooSh", twitch: "voodoosh", w3cSmurfs: "VOODOOSOUL#2858"},
             { aka: "84", twitch: "eightyfour_", w3cSmurfs: "EIGHTYFOUR#2111 EIGHTYFOUR#21528"},
