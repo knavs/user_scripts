@@ -94,6 +94,7 @@
             { aka: "TH000", twitch: undefined, w3cSmurfs: "EGG#13438"},
             { aka: "Lyn", twitch: undefined, w3cSmurfs: "LIANPIA#3217"},
             { aka: "Niklaus", twitch: "hailniklaus" , w3cSmurfs: "Philosopher#21505"},
+            { aka: "BaxaRa", twitch: "baxara_ud" , w3cSmurfs: "BXR#2920"},
             { aka: "Cas", twitch: "koaocas" , w3cSmurfs: "WONTUFANS#1690 WNDCAS#1449 UKCILABBAJ#1475 EMILYHUTTSON#1378 STOWKAFAN#1305 SOYMAFANS#1524"},
             { aka: "D3xter", twitch: "deeeexteeeer" , w3cSmurfs: "D3XTER#21492"},
             { aka: "Kaho", twitch: undefined , w3cSmurfs: "DESTINY#514792"},
