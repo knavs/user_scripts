@@ -156,6 +156,7 @@
             { aka: "SyDe", twitch: "syde_", w3cSmurfs: "SYDE#2753"},
             { aka: "Happy", twitch: "yesitshappy", w3cSmurfs: "HAPPY#2384 CACXA27#2425 CACXA26#2948 AURORAHAPPY#2668"},
             { aka: "TGW", twitch: "sqktgw", w3cSmurfs: "РОЗОВЫЙПОНИ#228941 TGW#21272"},
+            { aka: "D4rK", twitch: undefined, w3cSmurfs: "CHELSEAFC#21447"},
             { aka: "Grubby", twitch: "followgrubby", w3cSmurfs: "GRUBBY#1278 APPLE#2653"},
             { aka: "Cash", twitch: "cashforking", w3cSmurfs: "SAVAGE#23325"},
             { aka: "Foggy", twitch: "foggywc3", w3cSmurfs: "SPXFOGGY#2799"},
@@ -189,7 +190,7 @@
             { aka: "KroLu", twitch: "krolu_", w3cSmurfs: "LOSTHOPELFT#2202 ZYGM0O#2163"},
             // LUCIFER 2X:
             //{ aka: "Lucifer", twitch: "jwmichaelmn", w3cSmurfs: "JWMICHAELMN#3698"},
-            { aka: "Lucifer", twitch: "vs_michael", w3cSmurfs: "VSMICHAEL#3369 JWMICHAELMN#3698  VSLUCHAEL#3146"},
+            { aka: "Lucifer", twitch: "vs_michael", w3cSmurfs: "VSMICHAEL#3369 JWMICHAELMN#3698  VSLUCHAEL#3146 국사무쌍#31532"},
             // LUCIFER 2x
             { aka: "JohnnyCage", twitch: "johnnycagetdk", w3cSmurfs: "BOYKA#22818"},
             { aka: "nuelltz", twitch: "nuelltz", w3cSmurfs: "MARSJOE#2633"},
