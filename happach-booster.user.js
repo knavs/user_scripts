@@ -130,7 +130,7 @@
             { aka: "15Sui", twitch: undefined, w3cSmurfs: "牛魔酬宾暴雪#3346 达菲熊#2850"},        
             { aka: "Bike", twitch: undefined, w3cSmurfs: "WHATDOUWANT#2876"},
             { aka: "Fish", twitch: undefined, w3cSmurfs: "FROGZ#11137 ICE#13318"},
-            { aka: "KUHHHdark", twitch: "kuhhhdark", w3cSmurfs: "KUHHHDARK#1588 KUHHHHDARK#1417 UU99#1140 LABRABULL#1208"},
+            { aka: "KUHHHdark", twitch: "kuhhhdark", w3cSmurfs: "KUHHHDARK#1588 KUHHHHDARK#1417 UU99#1140 LABRABULL#1208 TENMINQUE#1121"},
             { aka: "Ledgic", twitch: "outcausinpanic", w3cSmurfs: "MALEVOLENT#11546"},
             { aka: "Hipposaur", twitch: "rhinosaurier", w3cSmurfs: " DERANGING#2574 HIPPOSAURIER#2643"},            
             { aka: "XlorD", twitch: "ixixlord", w3cSmurfs: "XLORD#2596 МАНДЮК#2977 IXI#21573"},
