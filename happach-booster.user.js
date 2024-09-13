@@ -99,6 +99,7 @@
             { aka: "Cas", twitch: "koaocas" , w3cSmurfs: "WONTUFANS#1690 WNDCAS#1449 UKCILABBAJ#1475 EMILYHUTTSON#1378 STOWKAFAN#1305 SOYMAFANS#1524"},
             { aka: "D3xter", twitch: "deeeexteeeer" , w3cSmurfs: "D3XTER#21492"},
             { aka: "Kaho", twitch: undefined , w3cSmurfs: "DESTINY#514792"},
+            { aka: "Harstem", twitch: "harstem", w3cSmurfs: "HARSTEM#21371"},
             { aka: "ice orc", twitch: undefined, w3cSmurfs: "抖音冰受受#5330 ICEGOGOGO#5711 NEVERLAND#31803"},
             { aka: "沐浴露 (Chinese HU)", twitch: undefined, w3cSmurfs: "冯奕博小同学#5832"},
             { aka: "Romantic", twitch: undefined, w3cSmurfs: "毕竟#51207 AFTERALL#11984"},
