@@ -160,7 +160,7 @@
             { aka: "Grubby", twitch: "followgrubby", w3cSmurfs: "GRUBBY#1278 APPLE#2653"},
             { aka: "Cash", twitch: "cashforking", w3cSmurfs: "SAVAGE#23325"},
             { aka: "Foggy", twitch: "foggywc3", w3cSmurfs: "SPXFOGGY#2799"},
-            { aka: "Chiko", twitch: "elovesupreme", w3cSmurfs: "CHIQO#21759 SUN#23180"},
+            { aka: "Chiko", twitch: "elovesupreme", w3cSmurfs: "CHIQO#21759 SUN#23180 GRANDTURISMO#21238"},
             { aka: "GunEgg", twitch: "gunegg1234", w3cSmurfs: "GUNEGG#3700"},
             { aka: "Crrpt", twitch: "crrpt86", w3cSmurfs: "KINGCRRPT#2278"},
             { aka: "Fly100%", twitch: undefined, w3cSmurfs: "FLYGOGOGO#4538 FLYGOGOGO#31864"},            
